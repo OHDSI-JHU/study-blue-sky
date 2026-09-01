@@ -121,6 +121,7 @@ if (knitr::is_latex_output()) {
 ## Disclosures
 
 This study is undertaken within Observational Health Data Sciences and Informatics (OHDSI), an open collaboration.
+Add'l disclosures.
 **JB** is a fictional character.
 
 \clearpage
@@ -131,19 +132,23 @@ This study is undertaken within Observational Health Data Sciences and Informati
 No one knows what color the sky is
 
 **Study Aims**: 
+Confirm blue color in sky
 
 **Study Description**: 
+We'll look at it
 
 * **Population**: 
+all the molecules
 
 * **Comparators**:
-  
+other colors
+
 * **Outcomes**:
-  
+  outcomes
 * **Design**: 
-
+design
 * **Timeframe**: 
-
+timeframe
 \clearpage
 
 # Amendments and Updates
