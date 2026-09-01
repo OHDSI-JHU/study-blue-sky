@@ -98,6 +98,8 @@ if (knitr::is_latex_output()) {
 # Responsible Parties
 
 ## Investigators
+Raff
+Anella
 
 ```{r parties, echo=FALSE}
 parties <- readr::read_delim(col_names = TRUE, delim = ";", trim_ws = TRUE, file = "
@@ -184,31 +186,33 @@ if (knitr::is_latex_output()) {
 ```
 
 # Rationale and Background
+background
 
 # Study Objectives
+objectives
 
 # Research Methods
 
 ## Study Design
-
+design
 This study uses `CohortMethod` [@Schuemie2020-fa].
 
 ## Data Sources
-
+data sources
 ## Study Population
-
+population
 ## Exposure Comparators
-
+comp
 ## Outcomes {#outcomes}
-
+as
 ## Analysis
-
+adsf
 # Sample Size and Study Power {#sample-size}
-
+asdf
 # Strengths and Limitations {#strengths-limitations}
-
+fff
 # Protection of Human Subjects
-
+asdff
 # Management and Reporting of Adverse Events and Adverse Reactions
 
 # Plans for Disseminating and Communicating Study Results
