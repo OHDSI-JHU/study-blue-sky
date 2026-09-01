@@ -5,7 +5,7 @@ measuring, and over what window. See the Gate 1 issue in this repository for wha
 
 ## Population
 
-_Who, and how are they identified in the data?_
+The sky
 
 ## What you're measuring
 
